@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travelling</string>
+    <string name="connection_error">Connection Error :(</string>
+    <string name="loading">Loading…</string>
+    <string name="country_quiz">%1$s Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect. %1$s was the correct answer</string>
+    <string name="please_select_an_answer">Please select an answer</string>
+    <string name="score">Score: %1$s</string>
+    <string name="dash_txt">Dashboard</string>
+    <string name="notf_txt">Notifications</string>
+<!--    <string name="yandex_key"></string>-->
+<!--    <string name="google_maps_key"></string>-->
+</resources>

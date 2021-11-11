@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "location": {
+      "latitude": 33.8568,
+      "longitude": 151.2153
+    }
+  },
+  {
+    "name": "Bondi Beach",
+    "city": "Sydney",
+    "location": {
+      "latitude": 33.8915,
+      "longitude": 151.2767
+    }
+  },
+  {
+    "name": "Royal Palace of Madrid",
+    "city": "Madrid",
+    "location": {
+      "latitude": 40.4180,
+      "longitude": -3.714312
+    }
+  },
+  {
+    "name": "El Retiro Park",
+    "city": "Madrid",
+    "location": {
+      "latitude": 40.415260,
+      "longitude": -3.684500
+    }
+  },
+  {
+    "name": "Great Wall of China",
+    "city": "Beijing",
+    "location": {
+      "latitude": 40.4319,
+      "longitude": 116.5704
+    }
+  },
+  {
+    "name": "Forbidden City",
+    "city": "Beijing",
+    "location": {
+      "latitude": 39.9169,
+      "longitude": 116.3907
+    }
+  },
+  {
+    "name": "Te Papa Museum",
+    "city": "Wellington",
+    "location": {
+      "latitude": -41.2905,
+      "longitude": 174.7821
+    }
+  },
+  {
+    "name": "Red Rocks",
+    "city": "Wellington",
+    "location": {
+      "latitude": -41.3575,
+      "longitude": 174.7265
+    }
+  },
+  {
+    "name": "Yad Vashem",
+    "city": "Jeruselum",
+    "location": {
+      "latitude": -41.3575,
+      "longitude": 174.7265
+    }
+  },
+  {
+    "name": "Church of the Holy Sepulchre",
+    "city": "Wellington",
+    "location": {
+      "latitude": -41.3575,
+      "longitude": 174.7265
+    }
+  }
+]

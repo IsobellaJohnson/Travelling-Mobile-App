@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569258588367",
+    "project_id": "johnil1-travelling",
+    "storage_bucket": "johnil1-travelling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569258588367:android:a8a21bcd7cb1209ae5dfba",
+        "android_client_info": {
+          "package_name": "op.mobile.app.dev.johnil1.travelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569258588367-eoloosmt3f3oujoipt3i1e7k5nuj8mdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdVW-9XS9moygx_JRVkRnLUSfdXcWrNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569258588367-eoloosmt3f3oujoipt3i1e7k5nuj8mdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
